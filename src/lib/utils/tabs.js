@@ -1,4 +1,4 @@
-import {leagueID} from '$lib/utils/leagueInfo';
+import {934477989243482112} from '$lib/utils/leagueInfo';
 
 export const tabs = [
     {
